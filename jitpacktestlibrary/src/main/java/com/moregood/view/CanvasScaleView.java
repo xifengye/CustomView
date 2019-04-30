@@ -1,4 +1,4 @@
-package com.moregood.customview.view;
+package com.moregood.view;
 
 import android.content.Context;
 import android.graphics.Canvas;

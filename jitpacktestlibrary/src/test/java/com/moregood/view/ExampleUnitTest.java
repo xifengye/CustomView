@@ -1,4 +1,4 @@
-package com.moregood.jitpacktestlibrary;
+package com.moregood.view;
 
 import org.junit.Test;
 
